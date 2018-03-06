@@ -4,7 +4,7 @@
 
 eg.
   
-  $ ./dir /home/micrain/桌面/opencv 10 10000
+  $ ./dir /home 10 10000
 
 arg1 : 搜索目录
 
