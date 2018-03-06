@@ -8,6 +8,6 @@ eg.
 
 arg1 : 搜索目录
 
-arg2 ：最小file size\n
+arg2 ：最小file size
 
-arg3 ：最大file size\n
+arg3 ：最大file size
